@@ -65,7 +65,6 @@ class Lunch:
 
 Paul = Lunch('menu 1')
 Paul.menu_price()
-
 # EXERCISE 4 ##############################################################################################################
 # Define a Point3D class that inherits from object Inside the Point3D class,
 # define an __init__() function that accepts self, x, y, and z, and assigns these numbers to the member variables self.x,self.y,self.z.
@@ -78,10 +77,10 @@ class Point3D:
         self.x = x
         self.y = y
         self.z = z
+
     def __repr__(self):
        return '({}, {}, {})'.format(self.x, self.y, self.z)
 
 my_point = Point3D(1, 2, 3)
 print(my_point)
-
 # Exercises from: https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/classes/exercisesclasses.html
