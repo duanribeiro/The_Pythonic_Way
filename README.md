@@ -7,5 +7,7 @@ I'm a brazilian economist graduated from UNESP, one of the most traditional univ
 ### What you will se here?
 
 **Exercises of the internet:** even if simple, to consolidate the bases of my programming.
+
 **Investment portfolio codes:** I currently work on this subject, and well, I am an economist ;D.
+
 **Machine Learning:** Econometrics + Python = Love
