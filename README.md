@@ -1,9 +1,13 @@
-# Examples of Machine Learning Codes
+# Welcome to my Git!
 
-### Linear Regression
+### Who am I?
 
-We will work with the csv file of the company's Ecommerce Customers. It has customer information such as Email, Address and Avatar color. Then it also has columns of numeric values.
-* **Avg. Session Length:** Average time for style consulting sessions in the store.
-* **Time on App:** Average time spent in the app in minutes.
-* **Time on Website:** Average time spent on the site in minutes.
-* **Lenght of Membership:** How many years the client is a member.
+I'm a brazilian economist graduated from UNESP,one of the most traditional universities in the state of são paulo. I work and study Python, MongoDB, Git and other technologies that facilitate my life and that of other people.
+
+### What you will se here?
+
+**Exercises of the internet:** even if simple, to consolidate the bases of my programming.
+
+**Investment portfolio codes:** I currently work on this subject, and well, I am an economist; D.
+
+**Machine Learning:** Econometrics + Python = Love
