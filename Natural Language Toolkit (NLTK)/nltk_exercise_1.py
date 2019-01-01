@@ -10,13 +10,13 @@ import numpy as np
 
 # First, import one of the three built-in stemmer algorithms and initialize a stemmer:
 porter_stemmer = PorterStemmer()
-print(porter_stemmer.stem('lovely'))
-print(porter_stemmer.stem('machines'))
+pp(porter_stemmer.stem('lovely'))
+pp(porter_stemmer.stem('machines'))
 
 # Now import a lemmatization algorithm based on Wordnet corpus built-in, and initialize an lemmatizer:
 lemmatizer = WordNetLemmatizer()
-print(lemmatizer.lemmatize('lovely'))
-print(lemmatizer.lemmatize('machines'))
+pp(lemmatizer.lemmatize('lovely'))
+pp(lemmatizer.lemmatize('machines'))
 
 # The scikit-learn library provides a utility function of loading the dataset.
 groups = fetch_20newsgroups()
