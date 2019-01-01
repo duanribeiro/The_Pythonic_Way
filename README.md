@@ -4,7 +4,7 @@
 
 I'm a brazilian economist graduated from UNESP, one of the most traditional universities in the state of São Paulo. I work and study Python, MongoDB, Git and other technologies that facilitate my life and other's.
 
-### What you will se here?
+### What you will see here?
 
 * **Exercises of the internet:** even if simple, to consolidate the bases of my programming.
 
