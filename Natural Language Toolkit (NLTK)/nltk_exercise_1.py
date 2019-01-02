@@ -53,7 +53,6 @@ plt.show()
 def letters_only(astr):
     return astr.isalpha()
 
-
 cv = CountVectorizer(stop_words="english", max_features=500)
 all_names = set(names.words())
 lemmatizer = WordNetLemmatizer()
